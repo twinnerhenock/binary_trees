@@ -26,8 +26,7 @@ This is a 4-day project on Binary Trees with c.
 	* <a href="6-binary_tree_preorder.c">6-binary_tree_preorder.c</a> function that traverses a tree using pre-order traversal.
 
 * In-order traversal
-        * <a href="7-binary_tree_inorder.c">7-binary_tree_inorder
-.c</a> function that traverses a tree using in-order traversal.
+        * <a href="7-binary_tree_inorder.c">7-binary_tree_inorder.c</a> function that traverses a tree using in-order traversal.
 
 * Post-order traversal
         * <a href="8-binary_tree_postorder.c">8-binary_tree_postorder.c</a> function that traverses a tree using post-order traversal.
