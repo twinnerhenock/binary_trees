@@ -1,9 +1,8 @@
 # binary trees
 This is a 4-day project on Binary Trees with c.
 
-Function Protypes:
-
 <table>
+<caption><h2>Function Prototypes</h2></caption>
 <tr><td><a href="https://github.com/twinnerhenock/binary_trees">FILES</a></td><td><a href="binary_trees.h">PROTOTYPE</a></td>
 </tr>
 </table>
