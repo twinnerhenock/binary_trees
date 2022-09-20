@@ -2,11 +2,14 @@
 This is a 4-day project on Binary Trees with c.
 
 Function Protypes:
+
 <table>
-<tr><td><a href="binary_trees">FILES</td><td><a href="binary_trees.h">PROTOTYPE</td>
+<tr><td><a href="https://github.com/twinnerhenock/binary_trees">FILES</a></td><td><a href="binary_trees.h">PROTOTYPE</a></td>
 </tr>
 </table>
+
 # Tasks
+
 * New node
 	* <a href="0-binary_tree_node.c">0-binary_tree_node.c </a> Create a function that creates a binary node with a given parent and value. 
 	* Returns a pointer to the new node or NULL on failure.
